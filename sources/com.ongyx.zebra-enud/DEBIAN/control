@@ -1,0 +1,13 @@
+Package: com.ongyx.zebra-enud
+Name: English (Upside Down) Language for Zebra
+Version: 1.0.0
+Architecture: iphoneos-arm
+Depends: xyz.willy.zebra
+Description: Adds the English (Upside Down) language to Zebra.
+ This language pack appears in the source code for Zebra, but not in the 'production' build (lol).
+ Switch the language in Zebra's settings to English (Upside Down) for it to take effect.
+Depiction: https://ongyx.github.io/repo/depictions/web/?p=com.ongyx.zebra-enud
+SileoDepiction: https://ongyx.github.io/repo/depictions/native/com.ongyx.zebra-enud/depiction.json
+Maintainer: Ong Yong Xin <ongyongxin2020+github@gmail.com>
+Author: absidue <https://absidue.me> Caner Karaca <https://twitter.com/Caner__Karaca>
+Section: Localization

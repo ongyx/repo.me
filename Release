@@ -1,0 +1,17 @@
+Architectures: iphoneos-arm
+Codename: apple
+Components: main
+Date: Fri, 11 Sep 2020 11:21:37 +0000
+Description: a repo for projects
+Label: cidercellar
+Origin: ongyx's cydia repo
+Suite: stable
+Version: 1.0
+MD5Sum:
+ 1bda4e7eb40a49d36f0015ac8d3ebcfd              205 Release
+SHA1:
+ ecae4e8846145d1b154718936b104afd233d87ad              205 Release
+SHA256:
+ 7c14574d4fe39fca779fbae9124ff7398ce7faba292536cf73774e5c0710231f              205 Release
+SHA512:
+ 11da952374f903354eb48400947a21a7b38347e0b36e66b2d3b69b75d8530df4483c902e89d7be5f7a93d4018bc0aca43856eafe546385eb992ed14b5b412737              205 Release

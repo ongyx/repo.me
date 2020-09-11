@@ -1,14 +1,14 @@
 <repo>
     <footerlinks>
         <link>
-            <name>Follow me on Twitter</name>
-            <url>https://twitter.com/truesyns</url>
-            <iconclass>glyphicon glyphicon-user</iconclass>
+            <name>github</name>
+            <url>https://github.com/ongyx</url>
+            <iconclass>glyphicon glyphicon-github</iconclass>
         </link>
         <link>
-            <name>I want this depiction template</name>
-            <url>https://github.com/syns/repo.me</url>
-            <iconclass>glyphicon glyphicon-thumbs-up</iconclass>
+            <name>reddit</name>
+            <url>https://www.reddit.com/u/sn3kgos</url>
+            <iconclass>glyphicon glyphicon-reddit</iconclass>
         </link>
     </footerlinks>
 </repo>

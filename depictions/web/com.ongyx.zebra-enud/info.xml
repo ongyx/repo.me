@@ -1,0 +1,28 @@
+<package>
+	<id>com.ongyx.zebra-enud</id>
+	<name>English (Upside Down) Language for Zebra</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>9.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>xyz.willy.zebra</package>
+	</dependencies>
+	<shortDescription>Adds the English (Upside Down) language to Zebra.</shortDescription>
+	<descriptionlist>
+		<description>This language pack appears in the source code for Zebra, but not in the 'production' build (lol).</description>
+		<description>Switch the language in Zebra's settings to English (Upside Down) for it to take effect.</description>
+	</descriptionlist>
+	<changelog>
+		<change>initial release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>github</name>
+			<url>https://github.com/ongyx/cidercellar/</url>
+			<iconclass>fa fa-github</iconclass>
+		</link>
+	</links>
+</package>
